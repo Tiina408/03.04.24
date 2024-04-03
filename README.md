@@ -12,7 +12,7 @@ Read me file uses markdown syntax to edit any text, formulas or codes
 2. Python AI tool
 3. My own social network
 
-## My Favorite par of code
+## My Favorite part of code
 ```java
 double temp = -15.0;
 
